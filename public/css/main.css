@@ -1,0 +1,6 @@
+#theContentIndexTable :hover {
+    cursor: pointer;
+}
+#theContentIndexTable th {
+    text-align: left;
+}
